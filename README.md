@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Stats](https://github-readme-stats.vercel.app/api?username=qqq89513&theme=buefy&show_icons=true&count_private=true&custom_title=Quency's+Github+Stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=qqq89513&theme=merko&show_icons=true&count_private=true&include_all_commits=true&custom_title=Quency's+Github+Stats)
 
 <!--
 // This shows the language I use.

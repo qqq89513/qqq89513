@@ -1,9 +1,10 @@
 ### Hi there 👋
-![Stats](https://github-readme-stats.vercel.app/api?username=qqq89513&theme=merko&show_icons=true&count_private=true&include_all_commits=true&custom_title=Quency's+Github+Stats)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qqq89513&theme=merko&layout=compact&card_width=445&count_private=true&langs_count=100&custom_title=Quency's+Github+Stats)
 
 <!--
+// Score according to commit
+![Stats](https://github-readme-stats.vercel.app/api?username=qqq89513&theme=merko&show_icons=true&count_private=true&include_all_commits=true&custom_title=Quency's+Github+Stats)
 // This shows the language I use.
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qqq89513&theme=buefy&layout=compact&card_width=445&count_private=true&langs_count=100)
 
 **qqq89513/qqq89513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
